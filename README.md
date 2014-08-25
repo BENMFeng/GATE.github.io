@@ -1,4 +1,4 @@
-GATE.github.io
+GATE -- Bioinformatics Star-gate
 ==============
 
 GATE project main page
