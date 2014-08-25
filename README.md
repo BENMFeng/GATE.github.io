@@ -1,4 +1,4 @@
-GATE -- Bioinformatics Star-gate
+GATE -- Bioinformatics star-gate
 ==============
 
 GATE project main page
